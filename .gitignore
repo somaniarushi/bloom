@@ -1,0 +1,5 @@
+.idea/
+.lightning_studio/
+.vscode/
+
+__pycache__/
